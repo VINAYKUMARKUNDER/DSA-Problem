@@ -5,6 +5,9 @@ public class PoossibleArray {
         int n=str.length();
         int max=0;
         char ch [] =str.toCharArray();
+
+
+        
         
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
