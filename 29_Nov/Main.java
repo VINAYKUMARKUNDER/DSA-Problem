@@ -8,6 +8,16 @@ public class Main{
         for(int i=0;i<tc;i++){
             int n= sc.nextInt();
             sc.nextLine();
+
+
+
+
+
+
+
+
+
+            
             int [] arr = Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
             
             // Arrays.sort(arr);
