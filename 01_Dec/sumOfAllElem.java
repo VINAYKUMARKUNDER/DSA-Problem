@@ -8,25 +8,6 @@ public class sumOfAllElem{
 
         int n=sc.nextInt();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         
         sc.nextLine();
 
