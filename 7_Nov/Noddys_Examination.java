@@ -10,19 +10,6 @@ public class Noddys_Examination{
         sc.nextLine();
 
 
-
-
-
-
-
-
-
-
-
-
-
-        
-        
         int arr[]=Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
         
         int count =0;
