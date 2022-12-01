@@ -13,6 +13,14 @@ public class PayForPhones {
         
         for(int i=0;i<price.length;i++){
             sum+=price[i]*qui[i];
+
+
+
+
+
+
+
+            
         }
         
         if(sum<150000)System.out.print("Possible");
