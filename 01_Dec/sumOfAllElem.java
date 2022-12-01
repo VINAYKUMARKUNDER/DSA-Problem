@@ -7,6 +7,27 @@ public class sumOfAllElem{
         System.out.println("enetr a number..");
 
         int n=sc.nextInt();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         sc.nextLine();
 
         int arr[]=Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
