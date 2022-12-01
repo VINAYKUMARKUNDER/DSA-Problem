@@ -8,6 +8,20 @@ public class Noddys_Examination{
         int n=sc.nextInt();
         int k=sc.nextInt();
         sc.nextLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         
         int arr[]=Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
         
