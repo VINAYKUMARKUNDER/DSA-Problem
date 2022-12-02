@@ -9,11 +9,6 @@ public class sumOfAllElem{
         int n=sc.nextInt();
 
 
-
-
-
-
-        
         sc.nextLine();
 
         int arr[]=Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
