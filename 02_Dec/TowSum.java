@@ -9,13 +9,6 @@ public class TowSum {
             
             for(int i=0;i<tc;i++){
 
-
-
-
-
-
-                
-                
                 int n=sc.nextInt();
                 int k=sc.nextInt();
                 
