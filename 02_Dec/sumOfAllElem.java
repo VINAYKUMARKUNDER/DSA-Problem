@@ -17,27 +17,6 @@ public class sumOfAllElem{
         for(int a:arr)sum+=a;
 
         System.out.println(sum);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+ 
     }
 }
