@@ -22,3 +22,5 @@ As your bright and tiny spark
 Lights the traveler in the dark,
 Though I know not what you are,
 Twinkle, twinkle, little star.''')
+
+# when ''' line is out of function then treted as comment and when this ''' code is inner a function then treted as String..
